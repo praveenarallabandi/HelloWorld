@@ -1,2 +1,2 @@
 # HelloWorld
-First Demo projet
+First Demo project
